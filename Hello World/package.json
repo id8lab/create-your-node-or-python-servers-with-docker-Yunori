@@ -1,0 +1,22 @@
+{
+  "name": "Hello",
+  "version": "1.0.0",
+  "description": "Hello World !",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvpclub/create-your-node-or-python-servers-with-docker-Yunori.git"
+  },
+  "author": "Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvpclub/create-your-node-or-python-servers-with-docker-Yunori/issues"
+  },
+  "homepage": "https://github.com/mvpclub/create-your-node-or-python-servers-with-docker-Yunori#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
